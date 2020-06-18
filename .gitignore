@@ -107,6 +107,6 @@ venv.bak/
 home-credit-default-risk/
 home-credit-default-risk.zip
 
-# models
+# models 
 *.mod
 *.bz2
